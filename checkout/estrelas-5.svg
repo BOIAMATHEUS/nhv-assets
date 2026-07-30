@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="18" viewBox="0 0 96 18" role="img" aria-label="5 de 5 estrelas">
+  <defs>
+    <path id="s" d="M9 1.6l2.29 4.64 5.12.74-3.7 3.61.87 5.1L9 13.29l-4.58 2.4.87-5.1L1.59 6.98l5.12-.74z"/>
+  </defs>
+  <g fill="#F0B72F">
+    <use href="#s" x="0"/>
+    <use href="#s" x="19.5"/>
+    <use href="#s" x="39"/>
+    <use href="#s" x="58.5"/>
+    <use href="#s" x="78"/>
+  </g>
+</svg>
